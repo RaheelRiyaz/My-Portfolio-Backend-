@@ -1,0 +1,12 @@
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\bin\Debug\net8.0\Portfolio.Domain.deps.json
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\bin\Debug\net8.0\Portfolio.Domain.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\bin\Debug\net8.0\Portfolio.Domain.pdb
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.AssemblyInfoInputs.cache
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.AssemblyInfo.cs
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.csproj.CoreCompileInputs.cache
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.sourcelink.json
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\refint\Portfolio.Domain.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\Portfolio.Domain.pdb
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Domian\obj\Debug\net8.0\ref\Portfolio.Domain.dll

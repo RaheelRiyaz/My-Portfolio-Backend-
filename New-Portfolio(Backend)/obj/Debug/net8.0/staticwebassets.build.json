@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "1UqLOs9f5GYBtGBUWldHRMxEEo6x+mldLBAWG17zeis=",
+  "Source": "Portfolio.Api",
+  "BasePath": "_content/Portfolio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio.Api\\wwwroot",
+      "Source": "Portfolio.Api",
+      "ContentRoot": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\",
+      "BasePath": "_content/Portfolio.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\2f500eb7-8f19-4f6e-9e25-89bdb9dcec07heart.png",
+      "SourceId": "Portfolio.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\",
+      "BasePath": "_content/Portfolio.Api",
+      "RelativePath": "Files/2f500eb7-8f19-4f6e-9e25-89bdb9dcec07heart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\2f500eb7-8f19-4f6e-9e25-89bdb9dcec07heart.png"
+    },
+    {
+      "Identity": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\31f4f62c-161d-4737-9c94-cb8fe522aad2boot.png",
+      "SourceId": "Portfolio.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\",
+      "BasePath": "_content/Portfolio.Api",
+      "RelativePath": "Files/31f4f62c-161d-4737-9c94-cb8fe522aad2boot.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\31f4f62c-161d-4737-9c94-cb8fe522aad2boot.png"
+    },
+    {
+      "Identity": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\cedb323d-e39e-499b-a227-eee9bef3f950video (1080p).mp4",
+      "SourceId": "Portfolio.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\",
+      "BasePath": "_content/Portfolio.Api",
+      "RelativePath": "Files/cedb323d-e39e-499b-a227-eee9bef3f950video (1080p).mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\cedb323d-e39e-499b-a227-eee9bef3f950video (1080p).mp4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\bin\Debug\net8.0\Portfolio.Core.deps.json
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\bin\Debug\net8.0\Portfolio.Core.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\bin\Debug\net8.0\Portfolio.Core.pdb
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.AssemblyInfoInputs.cache
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.AssemblyInfo.cs
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.csproj.CoreCompileInputs.cache
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.sourcelink.json
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\refint\Portfolio.Core.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.pdb
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\ref\Portfolio.Core.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\bin\Debug\net8.0\Portfolio.Domain.dll
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\bin\Debug\net8.0\Portfolio.Domain.pdb
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.csproj.AssemblyReference.cache
+D:\localRepository\New-Portfolio-Backend-\Portfolio.Core\obj\Debug\net8.0\Portfolio.Core.csproj.CopyComplete

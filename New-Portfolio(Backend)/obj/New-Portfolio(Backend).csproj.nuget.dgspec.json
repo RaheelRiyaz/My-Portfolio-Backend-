@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\localRepository\\New-Portfolio(Backend)\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj": {}
+    "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj": {}
   },
   "projects": {
-    "D:\\localRepository\\New-Portfolio(Backend)\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj": {
+    "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\localRepository\\New-Portfolio(Backend)\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj",
+        "projectUniqueName": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj",
         "projectName": "New-Portfolio(Backend)",
-        "projectPath": "D:\\localRepository\\New-Portfolio(Backend)\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj",
+        "projectPath": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\New-Portfolio(Backend).csproj",
         "packagesPath": "C:\\Users\\EliteBook\\.nuget\\packages\\",
-        "outputPath": "D:\\localRepository\\New-Portfolio(Backend)\\New-Portfolio(Backend)\\obj\\",
+        "outputPath": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config",

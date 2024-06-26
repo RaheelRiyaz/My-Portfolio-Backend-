@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\2f500eb7-8f19-4f6e-9e25-89bdb9dcec07heart.png",
+      "PackagePath": "staticwebassets\\Files\\2f500eb7-8f19-4f6e-9e25-89bdb9dcec07heart.png"
+    },
+    {
+      "Id": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\31f4f62c-161d-4737-9c94-cb8fe522aad2boot.png",
+      "PackagePath": "staticwebassets\\Files\\31f4f62c-161d-4737-9c94-cb8fe522aad2boot.png"
+    },
+    {
+      "Id": "D:\\localRepository\\New-Portfolio-Backend-\\New-Portfolio(Backend)\\wwwroot\\Files\\cedb323d-e39e-499b-a227-eee9bef3f950video (1080p).mp4",
+      "PackagePath": "staticwebassets\\Files\\cedb323d-e39e-499b-a227-eee9bef3f950video (1080p).mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Portfolio.Api.props",
+      "PackagePath": "build\\Portfolio.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.Api.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.Api.props",
+      "PackagePath": "buildTransitive\\Portfolio.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
